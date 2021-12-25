@@ -1,0 +1,3 @@
+
+rootProject.name = "NestedDropdown"
+include ':E2ETests'
